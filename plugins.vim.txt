@@ -1,0 +1,1 @@
+VimCompletesMe ack.vim ag.vim auto-pairs ctrlp.vim editorconfig-vim emmet-vim nerdtree python-mode tabular typescript-vim vim vim-javascript vim-pug vim-swift vim-vue
