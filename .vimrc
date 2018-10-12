@@ -30,7 +30,8 @@ let g:solarized_use16 = 1
 set wildignore+=*/.git/*,*/.hg/*,*/.svn/*,*/.idea/*,*/.DS_Store,*/vendor/*,*/node_modules/*
 
 set foldcolumn=3
-hi Search ctermfg=DarkBlue
+hi Search ctermbg=White
+hi Search ctermfg=Black
 hi FoldColumn ctermbg=None
 
 nmap <leader>, :NERDTreeToggle<cr>
